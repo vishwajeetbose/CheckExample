@@ -3,7 +3,7 @@ using System;
 	{
 		public example1()
 		{
-			Console.WriteLine("example1");		
+			Console.WriteLine("example1 2");		
 		}
 
 		public static void Main()
